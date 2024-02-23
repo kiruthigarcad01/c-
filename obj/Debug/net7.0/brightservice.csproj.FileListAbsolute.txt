@@ -1,0 +1,14 @@
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\obj\Debug\net7.0\brightservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\obj\Debug\net7.0\brightservice.AssemblyInfoInputs.cache
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\obj\Debug\net7.0\brightservice.AssemblyInfo.cs
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\obj\Debug\net7.0\brightservice.csproj.CoreCompileInputs.cache
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\bin\Debug\net7.0\brightservice.exe
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\bin\Debug\net7.0\brightservice.deps.json
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\bin\Debug\net7.0\brightservice.runtimeconfig.json
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\bin\Debug\net7.0\brightservice.dll
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\bin\Debug\net7.0\brightservice.pdb
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\obj\Debug\net7.0\brightservice.dll
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\obj\Debug\net7.0\refint\brightservice.dll
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\obj\Debug\net7.0\brightservice.pdb
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\obj\Debug\net7.0\brightservice.genruntimeconfig.cache
+C:\Users\KIRUTHIGACAD01\Desktop\cadbatch01\project\csharptask\bsmaintask\brightservice\obj\Debug\net7.0\ref\brightservice.dll
