@@ -12,11 +12,11 @@
 
 </div>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light -bottom box-shadow mb-3" >
-          <nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light -bottom box-shadow mb-3 bg-dark" >
+         
           
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">firstsiteincsharp</a>
+                <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">firstsiteincsharp</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -27,31 +27,31 @@
                     <ul class="nav justify-content-end">
                     
   <li class="nav-item">
-    <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="Active">Active</a>
+    <a class="nav-link active text-white" asp-area="" asp-controller="Home" asp-action="Active">Active</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="Home">Home</a>
+    @* <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="Home">Home</a> *@
+    <div class="dropdown">
+  <button class="btn btn-secondary" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Home
+  </button>
+  <ul class="dropdown-menu">
+    <li>
+    <a class="nav-link active dropdown-item" asp-area="" asp-controller="Home" asp-action="Registration">Admin</a></li>
+
+    <li><a class="dropdown-item" href="#">Course</a></li>
+    <li><a class="dropdown-item" href="#">Librarian</a></li>
+  </ul>
+</div>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="Registration">Registration</a>
+    <a class="nav-link active text-white" asp-area="" asp-controller="Home" asp-action="Registration">Registration</a>  
+  </li>
+  <li class="nav-item"> 
+    <a class="nav-link text-white" href="#">Contact</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Admin</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Course</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Librarian</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Student</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Contact</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Login</a>
+    <a class="nav-link text-white" href="#">Login</a>
   </li>
   <li class="nav-item">
     <a class="nav-link disabled" aria-disabled="true">Disabled</a>
