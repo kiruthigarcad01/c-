@@ -1,6 +1,16 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+.bgimg {
+  background: url("
+  https://watermark.lovepik.com/photo/20211130/large/lovepik-primary-school-graduation-photo-picture_501286461.jpg");
+}
+
+
+
+
+
+
 a.navbar-brand {
   white-space: normal;
   text-align: center;

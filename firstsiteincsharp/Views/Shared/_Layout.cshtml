@@ -19,7 +19,8 @@
                 <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">firstsiteincsharp</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                          <img src="https://ibb.co/ngtFT9V" alt="">
+                    @* <span class="navbar-toggler-icon"></span> *@
                 </button>
                 
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
@@ -58,18 +59,22 @@
   </li>
 
 </ul>
+
                 </div>
             </div>
         </nav>
         </nav>
+         
     </header>
+     <div class="bgimg">
     
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
+    </div>
+   
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2024 - firstsiteincsharp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
