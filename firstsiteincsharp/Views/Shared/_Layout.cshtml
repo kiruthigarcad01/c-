@@ -40,8 +40,9 @@
     <li>
     <a class="nav-link active dropdown-item" asp-area="" asp-controller="Home" asp-action="Registration">Admin</a></li>
 
-    <li><a class="dropdown-item" href="#">Course</a></li>
-    <li><a class="dropdown-item" href="#">Librarian</a></li>
+    <li><a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="Course">Course</a></li>
+    
+    <li><a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="Librarian">Librarian</a></li>
   </ul>
 </div>
   </li>
@@ -49,14 +50,14 @@
     <a class="nav-link active text-white" asp-area="" asp-controller="Home" asp-action="Registration">Registration</a>  
   </li>
   <li class="nav-item"> 
-    <a class="nav-link text-white" href="#">Contact</a>
+    <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link text-white" href="#">Login</a>
+    <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
   </li>
-  <li class="nav-item">
+  @* <li class="nav-item">
     <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-  </li>
+  </li> *@
 
 </ul>
 
@@ -66,14 +67,14 @@
         </nav>
          
     </header>
-     <div class="bgimg">
+    
     
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-    </div>
+  
    
     <footer class="border-top footer text-muted">
         <div class="container">

@@ -26,7 +26,38 @@ body {
 .bgimg {
   background-image: url("https://watermark.lovepik.com/photo/20211130/large/lovepik-primary-school-graduation-photo-picture_501286461.jpg");
   background-size: cover;
+}
 
-  
+.card{
+
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius:10px;
+  height:auto;
+  transition:0.5s;
+
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+.card-body{
+  font-size:10px;
+  font-family:poppins;
+}
+
+
+.card-img-top{
+  width:100%;
+  height:auto;
+  border-radius:10px;
+  transition:0.5s;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+} 
+
+.d-block w-100{
+
+  margin-bottom:20px;
 
 }

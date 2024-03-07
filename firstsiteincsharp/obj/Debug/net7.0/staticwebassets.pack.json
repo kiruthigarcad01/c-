@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\firstsiteincsharp\\wwwroot\\images\\pic1.avif",
+      "PackagePath": "staticwebassets\\images\\pic1.avif"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\firstsiteincsharp\\wwwroot\\images\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\firstsiteincsharp\\wwwroot\\images\\slideimg1.jpg",
+      "PackagePath": "staticwebassets\\images\\slideimg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\firstsiteincsharp\\wwwroot\\images\\slideimg2.jpg",
+      "PackagePath": "staticwebassets\\images\\slideimg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\firstsiteincsharp\\wwwroot\\images\\slideimg3.jpg",
+      "PackagePath": "staticwebassets\\images\\slideimg3.jpg"
+    },
+    {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\firstsiteincsharp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
