@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\newmvcsharp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\favicon.ico",
@@ -15,6 +23,10 @@
     {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\images\\image1.JPG",
       "PackagePath": "staticwebassets\\images\\image1.JPG"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\images\\women.jpg"
     },
     {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\js\\site.js",

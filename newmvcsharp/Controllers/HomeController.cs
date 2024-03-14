@@ -28,13 +28,39 @@ public class HomeController : Controller
     {
         return View();
     }
+    
+    [HttpGet]
     public IActionResult login()
     {
         return View();
     }
 
     void ConnectionString(){
-        con.ConnectionString="192.168.1.240\\SQLEXPRESS; database=cad_foodhub; integrated security = SSIP; TrustServerCertificate=True;";
+        con.ConnectionString="data source=192.168.1.240\\SQLEXPRESS; database=cad_foodhub; user id=CADBATCH01; password=CAD@123pass; TrustServerCertificate=True;";
+    }
+
+    [HttpPost]
+    public IActionResult Verifylogin(logModel lmodel){
+
+        ConnectionString();
+        con.Open();
+        cmd.Connection=con;
+        cmd.CommandText="select * from LOGIN_ID where ID='"+lmodel.ID+"' and Password='"+lmodel.Password+" '; ";
+
+        dr=cmd.ExecuteReader();
+
+        if (dr.Read())
+        {    con.Close();
+             return View("create");
+ 
+        }
+
+        else
+        {     con.Close();
+              return View("Error");
+
+        }
+      
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

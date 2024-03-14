@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hIbZJlkniXFlG6ZBeBsK/78Jcvr0QX4ovh7Bc5ENgnk=",
+  "Hash": "awWAvTLlnF/YMeztaJOAZeofgTo2XJA8r1yyAaE5yvQ=",
   "Source": "newmvcsharp",
   "BasePath": "_content/newmvcsharp",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\newmvcsharp.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\css\\font-awesome.css",
+      "SourceId": "newmvcsharp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\",
+      "BasePath": "_content/newmvcsharp",
+      "RelativePath": "css/font-awesome.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\font-awesome.css"
+    },
+    {
       "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\css\\site.css",
       "SourceId": "newmvcsharp",
       "SourceType": "Discovered",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\css\\style.css",
+      "SourceId": "newmvcsharp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\",
+      "BasePath": "_content/newmvcsharp",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\favicon.ico",
@@ -100,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\image1.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\images\\women.jpg",
+      "SourceId": "newmvcsharp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\",
+      "BasePath": "_content/newmvcsharp",
+      "RelativePath": "images/women.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\women.jpg"
     },
     {
       "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\project\\c-\\newmvcsharp\\wwwroot\\js\\site.js",
