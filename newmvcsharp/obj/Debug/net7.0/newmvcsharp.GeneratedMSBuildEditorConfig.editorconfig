@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/KIRUTHIGACAD01/Desktop/cadbatch01/project/c-/newmvcsharp/Views/Home/Customer..cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21lci4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KIRUTHIGACAD01/Desktop/cadbatch01/project/c-/newmvcsharp/Views/Home/Dealer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWFsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/KIRUTHIGACAD01/Desktop/cadbatch01/project/c-/newmvcsharp/Views/Home/error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,10 +38,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/KIRUTHIGACAD01/Desktop/cadbatch01/project/c-/newmvcsharp/Views/Home/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/KIRUTHIGACAD01/Desktop/cadbatch01/project/c-/newmvcsharp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/KIRUTHIGACAD01/Desktop/cadbatch01/project/c-/newmvcsharp/Views/Shared/Error.cshtml]

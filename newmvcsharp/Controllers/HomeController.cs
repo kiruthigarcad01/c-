@@ -24,11 +24,14 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult Dealer()
     {
         return View();
     }
-    
+    public IActionResult Customer()
+    {
+        return View();
+    }
     [HttpGet]
     public IActionResult login()
     {
