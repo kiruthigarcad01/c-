@@ -52,10 +52,23 @@ public class HomeController : Controller
 
         dr=cmd.ExecuteReader();
 
-        if (dr.Read())
-        {    con.Close();
-             return View("create");
- 
+        if (dr.Read())               
+        {    
+        if(lmodel.ID=="Dealer") 
+        {   
+            return RedirectToAction("Index", "Dealer");
+        }
+        else if (lmodel.ID=="Customer")
+        {
+            return RedirectToAction("Index", "Customer");
+        }
+
+        else
+        {
+            return RedirectToAction("Index", "Home");
+        }
+
+
         }
 
         else
@@ -64,6 +77,12 @@ public class HomeController : Controller
 
         }
       
+        
+
+
+
+
+
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

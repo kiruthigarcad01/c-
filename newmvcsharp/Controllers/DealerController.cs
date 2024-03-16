@@ -1,10 +1,25 @@
+using  Microsoft.AspNetCore.Mvc;
 
-using  Microsoft.AspNetCore.Mvc.Controller;
 
-namespace newmvcsharp.Controllers{
+public class DealerController : Controller
+{
+private readonly ILogger<DealerController> _logger;
 
-    public class DealerController : Controller
+    public DealerController(ILogger<DealerController> logger)
     {
-
+        _logger = logger;
     }
+    public IActionResult Index()
+ 	{
+        return View("Index", "_Layout Dealer");
+  	}
+    public IActionResult Hotels()
+ 	{
+        return View();
+  	}
+    public IActionResult Menus()
+ 	{
+        return View();
+  	}
 }
+   
